@@ -1,3 +1,4 @@
+// TC= O(N) sc= O(1)
 
 public class BalancedIndex2 {
 	public static void main(String[] args) {
