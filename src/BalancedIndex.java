@@ -27,7 +27,7 @@ public class BalancedIndex {
 			}
 			if(sl==sr) {
 				System.out.println(arr[i]+"---- index number"+" "+i);
-				break;
+				//break;
 			}
 			/*else {
 				if(i==3) {
